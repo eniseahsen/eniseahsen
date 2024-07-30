@@ -2,5 +2,5 @@
 
 
 - 🔭 I’m studying software engineering.
-- 🌱 I’m currently learning Python, JavaScript, HTML and CSS.
+- 🌱 I’m currently learning Python, NLP and Data Science.
 - 📫 eniseahsen18@gmail.com
